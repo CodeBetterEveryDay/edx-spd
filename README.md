@@ -1,7 +1,4 @@
 # Systematic Program Design - XSeries Program
-Systematic Program Design Courses - EdX
-
-## EdX XSeries
 
 ![](https://raw.githubusercontent.com/qba73/edx-spd/master/art/spdx.png)
 
