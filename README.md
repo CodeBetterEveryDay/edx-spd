@@ -3,7 +3,7 @@ Systematic Program Design Courses - EdX
 
 ## EdX XSeries
 
-![](https://raw.githubusercontent.com/qba73/master/art/spdx.png)
+![](https://raw.githubusercontent.com/qba73/edx-spd/master/art/spdx.png)
 
 This repository contains my foundation coding examples and mini-projects in the ["Systematic Program Design Courses - XSeries Program"](https://www.edx.org/xseries/how-code-systematic-program-design).
 
