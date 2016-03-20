@@ -1,3 +1,4 @@
-# spd1-coursera
-Code for Systematic Program Design Courses on edX
+# SPD1 EdX
+Code for Systematic Program Design Courses - EdX
+
 
